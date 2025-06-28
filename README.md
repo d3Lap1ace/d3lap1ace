@@ -14,7 +14,6 @@ When I'm not coding, you'll probably find me jamming to some heavy riffs or gett
 - 💬 Ask me about anything cloud-native
 - 📫 How to reach me: reald3lap1ace@gmail.com
 
-- 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3lap1ace&show_icons=true&theme=tokyonight) -->
 
 
