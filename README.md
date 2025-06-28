@@ -6,6 +6,8 @@ You know me — I’m all about efficiency. The crazy ones? They get to enjoy th
 I'm passionate about building things that live on the internet — from backend systems to web apps.  
 When I'm not coding, you'll probably find me jamming to some heavy riffs or getting lost in a good game.
 
+![Top lang](https://github-stats.ubrong.com/api/top-langs/?username=ubrong&amp;layout=compact&amp;theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3lap1ace&show_icons=true&theme=tokyonight)
 
 
 - 🔭 I’m currently working on cloud backend services
@@ -13,8 +15,6 @@ When I'm not coding, you'll probably find me jamming to some heavy riffs or gett
 - 🧰 Tech Stack: Java, Spring Boot,redis, React, Docker, k8s
 - 💬 Ask me about anything cloud-native
 - 📫 How to reach me: reald3lap1ace@gmail.com
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3lap1ace&show_icons=true&theme=tokyonight) -->
 
 
 <!--
