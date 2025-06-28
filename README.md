@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on **cloud backend services**
+- 🌱 I’m learning **Golang, system design, and distributed systems**
+- 🧰 Tech Stack: Java, Spring Boot, Vue, Docker, k8s
+- 💬 Ask me about anything cloud-native
+- 📫 How to reach me: lucas@example.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-lyu&show_icons=true&theme=tokyonight)
+
+
 <!--
 **d3Lap1ace/d3lap1ace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
