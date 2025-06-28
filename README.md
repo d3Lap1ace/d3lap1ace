@@ -1,12 +1,21 @@
-## Hi there 👋
+**The name d3lap1ace’s a nod to Laplace’s Demon — one of those big ideas in physics. Just a stylized abbreviation.**
 
-- 🔭 I’m currently working on **cloud backend services**
-- 🌱 I’m learning **Golang, system design, and distributed systems**
-- 🧰 Tech Stack: Java, Spring Boot, Vue, Docker, k8s
+🧠 Code enthusiast | 🎸 Rock music lover | 🎮 Gamer for life
+
+You know me — I’m all about efficiency. The crazy ones? They get to enjoy the world first.
+I'm passionate about building things that live on the internet — from backend systems to web apps.  
+When I'm not coding, you'll probably find me jamming to some heavy riffs or getting lost in a good game.
+
+
+
+- 🔭 I’m currently working on cloud backend services
+- 🌱 I’m learning Golang,C++, system design, and distributed systems
+- 🧰 Tech Stack: Java, Spring Boot,redis, React, Docker, k8s
 - 💬 Ask me about anything cloud-native
-- 📫 How to reach me: lucas@example.com
+- 📫 How to reach me: reald3lap1ace@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3lap1ace&show_icons=true&theme=tokyonight)
+- 
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3lap1ace&show_icons=true&theme=tokyonight) -->
 
 
 <!--
