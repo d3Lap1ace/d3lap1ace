@@ -1,16 +1,16 @@
-**The name d3lap1ace’s a nod to Laplace’s Demon — one of those big ideas in physics. Just a stylized abbreviation.**
+**echo "[info] The username is inspired by Laplace's demon, one of the four mythical creatures in physics."**
+**echo "[info] I admire those who know that their talents are not as good as their ambitions and will be quiet"**
 
-🧠 Code enthusiast | 🎸 Rock music lover | 🎮 Gamer for life
+
+Software Engineer | Enjoy building | Pursuing an artistic lifestyle <br>
 
 You know me — I’m all about efficiency. The crazy ones? They get to enjoy the world first.<br>
 I'm passionate about building things that live on the internet — from backend systems to web apps.<br> 
 When I'm not coding, you'll probably find me jamming to some heavy riffs or getting lost in a good game.<br>
 
-- 🔭 I’m currently working on cloud backend services
-- 🌱 I’m learning Golang,C++, system design, and distributed systems
-- 🧰 Tech Stack: Java, Spring Boot,redis, React, Docker, k8s
-- 💬 Ask me about anything cloud-native
-- 📫 How to reach me: reald3lap1ace@gmail.com
+- Tech Stack: Java, Spring Boot,redis, React, Docker, k8s, system design, 
+- Ask me about anything cloud-native
+- How to reach me: reald3lap1ace@gmail.com
 
 
 
