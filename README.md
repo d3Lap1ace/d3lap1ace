@@ -8,11 +8,6 @@ You know me — I’m all about efficiency. The crazy ones? They get to enjoy th
 I'm passionate about building things that live on the internet — from backend systems to web apps.<br> 
 When I'm not coding, you'll probably find me jamming to some heavy riffs or getting lost in a good game.<br>
 
-- Tech Stack: Java, Spring Boot,redis, React, Docker, k8s, system design, 
-- Ask me about anything cloud-native
-- How to reach me: reald3lap1ace@gmail.com
-
-
 
 
 
