@@ -1,5 +1,5 @@
-**echo "[info] The username is inspired by Laplace's demon, one of the four mythical creatures in physics."**
-**echo "[info] I admire those who know that their talents are not as good as their ambitions and will be quiet"**
+**echo "[info] The username is inspired by Laplace's demon, one of the four mythical creatures in physics."**<br>
+**echo "[info] Knowledge is cheap, Imagination and initiative are valuable in this time."**<br>
 
 
 Software Engineer | Enjoy building | Pursuing an artistic lifestyle <br>
