@@ -4,12 +4,6 @@
 
 Software Engineer | Enjoy building | Pursuing an artistic lifestyle <br>
 
-You know me — I’m all about efficiency. The crazy ones? They get to enjoy the world first.<br>
-I'm passionate about building things that live on the internet — from backend systems to web apps.<br> 
-When I'm not coding, you'll probably find me jamming to some heavy riffs or getting lost in a good game.<br>
-
-
-
 
 <!--
 **d3Lap1ace/d3lap1ace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
