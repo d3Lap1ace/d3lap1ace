@@ -48,6 +48,22 @@ def test_missing_language_and_description():
     assert lines[idx + 1].startswith("3. ")
 
 
+def test_description_zh_preferred():
+    repos = [
+        {
+            "full_name": "owner/repo",
+            "html_url": "https://github.com/owner/repo",
+            "stargazers_count": 100,
+            "language": "Python",
+            "description": "English description",
+            "description_zh": "中文描述",
+        }
+    ]
+    out = format_message(repos, "2026-06-13")
+    assert "中文描述" in out
+    assert "English description" not in out
+
+
 def test_html_escaping():
     out = format_message(SAMPLE, "2026-06-13")
     # 仓库名与描述中的尖括号 / & 被转义
